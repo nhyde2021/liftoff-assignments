@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://drive.google.com/file/d/1W0WjnB-ysUTtxT2DCh9Joyk2US_QzRPN/view?usp=sharing
+https://drive.google.com/file/d/1M_CWKFmJfgABlrTWaHf90Stoe3tb6Lx6/view?usp=sharing
+https://drive.google.com/file/d/1KaBwk8-tnN-dsWJ6PrdPCGfcY_b_AAH9/view?usp=sharing
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/ugnNk0V1/bass-rig-curator
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/nhyde2021/BassRigCurator.git
